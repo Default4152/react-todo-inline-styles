@@ -1,1 +1,1 @@
-# Simple React Skeleton
+![](https://i.imgur.com/tWcoZOl.png)
